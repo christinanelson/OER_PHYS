@@ -1,0 +1,5 @@
+#!/bin/sh
+
+g++ -cpp xfile.cpp -o xfile
+./xfile
+mv myPDF.tex ../latex

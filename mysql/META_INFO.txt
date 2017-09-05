@@ -1,0 +1,84 @@
+PID	SUBJECT	DIFFICULTY	KEYWORDS	COMMENT	Q_TYPE
+1	kinematics	easy	vector, displacement	NULL	NULL
+2	dynamics	easy	vector	NULL	NULL
+3	kinematics	easy	constant acceleration	NULL	NULL
+4	dynamics	medium	acceleration, gravity	NULL	NULL
+5	kinematics	easy	unaccelerated motion	NULL	NULL
+6	dynamics	easy	constant velocity, force, incline	NULL	m-choice
+7	gravitation	easy	NULL	NULL	NULL
+8	gravitation	easy	gravity	NULL	NULL
+9	kinematics	easy	banking angle	NULL	NULL
+10	dynamics	easy	kepler, orbits	NULL	NULL
+11	kinematics	medium	spring, speed, conservation of energy	NULL	NULL
+12	kinematics	easy	kinetic energy	NULL	NULL
+13	kinematics	easy	rotational motion	NULL	NULL
+14	kinematics	easy	rotational motion	NULL	NULL
+15	dynamics	medium	rotational motion, torque	NULL	NULL
+16	oscillations	easy	frequency, doppler	NULL	NULL
+17	heat-temperature	easy	linear expansion, temperature	NULL	NULL
+18	momentum	easy	conservation of momentum, recoil velocity	NULL	NULL
+19	kinematics	easy	horizontal distance	NULL	NULL
+20	heat-temperature	easy	heat, engine	NULL	NULL
+21	heat-temperature	easy	heat, conductivity	NULL	NULL
+22	work-energy	easy	work, force	NULL	NULL
+23	thermodynamics	medium	specific heat	NULL	NULL
+24	dynamics	easy	tension, archimedes	NULL	NULL
+25	kinematics	medium	rotational motion, torque	NULL	NULL
+26	kinematics	easy	rotaional motion, angular speed	NULL	NULL
+27	gravitation	easy	acceleration, gravity	NULL	NULL
+28	momentum	easy	momentum	NULL	NULL
+29	oscillations	easy	simple pendulum	NULL	NULL
+30	work-energy	easy	power, work energy theorem	NULL	NULL
+31	kinematics	easy	vector sum	NULL	NULL
+32	dynamics	easy	centripetal force, angular motion	NULL	NULL
+33	dynamics	medium	lift force	NULL	NULL
+34	heat-temperature	easy	heat, power, temperature	NULL	NULL
+35	dynamics	easy	acceleration	NULL	NULL
+36	work-energy	easy	energy, power, intensity	NULL	NULL
+37	kinematics	easy	rate	NULL	NULL
+38	work-energy	easy	potential energy, gravity	NULL	NULL
+39	kinematics	medium	constant velocity	NULL	NULL
+40	oscillations	easy	intensity	NULL	NULL
+41	momentum	medium	conservation of energy, conservation of momentum	NULL	NULL
+42	momentum	easy	kinetic energy	NULL	NULL
+43	gravitation	medium	gravity, mass, acceleration	NULL	NULL
+44	electricity-magnetism	easy	electric field, charge	NULL	NULL
+45	electricity-magnetism	easy	drift velocity	NULL	NULL
+46	electricity-magnetism	easy	resistivity	NULL	NULL
+47	optics-waves	easy	snell's law	NULL	t/f
+48	electricity-magnetism	easy	circuit, series, parallel	NULL	NULL
+49	electricity-magnetism	medium	electric field, tension, equilibrium	NULL	NULL
+50	optics-waves	easy	snell's law, refraction	NULL	NULL
+51	optics-waves	medium	refraction, reflection	NULL	NULL
+52	optics-waves	easy	convex lens	NULL	NULL
+53	modern	easy	lyman series, wavelength	NULL	NULL
+54	modern	easy	double slit, diffraction	NULL	NULL
+55	modern	easy	plank, quantize	NULL	NULL
+56	electricity-magnetism	easy	emf, induction, magnetic field	NULL	NULL
+57	optics-waves	medium	magnification, virtual image	NULL	NULL
+58	electricity-magnetism	easy	current, magnetic field	NULL	NULL
+59	modern	easy	particle, general relativity	NULL	NULL
+60	electricity-magnetism	easy	Millikan, force, charge	NULL	NULL
+61	modern	easy	half-life, carbon dating	NULL	NULL
+62	modern	medium	wavelength, balmer series	NULL	NULL
+63	modern	easy	nuclear reaction, power	NULL	NULL
+64	electricity-magnetism	medium	current, magnetic field	NULL	NULL
+65	electricity-magnetism	medium	rl circuit, current	NULL	NULL
+66	electricity-magnetism	easy	lorentz force	NULL	NULL
+67	electricity-magnetism	easy	area, flux, uniform magnetic field	NULL	NULL
+68	electricity-magnetism	medium	faraday, coil, magnetic field	NULL	NULL
+69	electricity-magnetism	easy	kirchoff junction loop rule, circuit, current	NULL	NULL
+70	electricity-magnetism	easy	resistance, terminal voltage	NULL	NULL
+71	electricity-magnetism	easy	capacitance, resistance, battery	NULL	NULL
+72	electricity-magnetism	medium	solenoid	NULL	NULL
+73	electricity-magnetism	easy	DC series parallel circuit	NULL	NULL
+74	electricity-magnetism	easy	magnetic flux, emf, field	NULL	NULL
+75	electricity-magnetism	medium	RL circuit, current	NULL	NULL
+76	electricity-magnetism	easy	transformer, voltage	NULL	NULL
+77	electricity-magnetism	medium	conductor, current, magnetic field	NULL	NULL
+78	modern	easy	double slit experiment	NULL	NULL
+79	optics-waves	easy	rayleigh criterion	NULL	NULL
+80	modern	easy	lymann series	NULL	NULL
+81	modern	easy	nuclear fission, power, energy, mass	NULL	NULL
+82	modern	easy	work function, wavelength, energy	NULL	NULL
+83	optics	medium	magnification, concave lens	NULL	NULL

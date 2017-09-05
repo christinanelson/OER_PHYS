@@ -1,0 +1,2 @@
+mktexpk --mfmode ljfivemp --bdpi 600 --mag 1+0/600 --dpi 600 cmr12
+mktexpk --mfmode ljfivemp --bdpi 600 --mag 1+0/600 --dpi 600 cmmi12

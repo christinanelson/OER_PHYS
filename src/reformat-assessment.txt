@@ -1,0 +1,99 @@
+1PDB
+A marble rolls horizontally on a table top at a constant speed of 2.25 m/s. The marble rolls off the edge of the table and arcs towards the floor landing in a cup that is 1.50 m from the edge of the table. (No friction or air resistance). ``a) What is the height, $h$, of the table above the ground?``b) What is the displacement $`vec{y}$ of the table top as measured from the top down to the ground
+a) Find time, $t$, from the x displacement equation without acceleration, $x = v_{0x}$ and solve for $t = x/v_{0x} = 1.5/2.25 = 0/67$ s. Now find the final velocity of the marble JUST before it lands in the cup using $v_{fy} = v_{f0} + gt = 0+(-9.8)(0.67) = -6.53$ m/s. Finally, use $v_f$ scalar equation to get height: $v_{yf}^2 = v_{f0}^2 + 2gy$ from which we get $y = (v_{yf}^2 - v_{f0}^2)/(2g) = (6.53)^2 / 19.6 = 2.18$ m. ``b) The displacement is the vector equivalent of the distance, $`vec{y} = -2.18 $ m.
+2PDB
+Add the two forces $`vec{F}_1 = 35$ N at $`theta = 35^{`circ}$ and $`vec{F}_2 = 25$ N at $`theta = 71^{`circ}$ using the method of vector components to: `` a) Find the net (resultant) force $`vec{F}_{net} = `vec{F}_1 + `vec{F}_2$. `` b) If this force is applied to an object with a mass of $m = 10.0$ kg, what is the resulting acceleration, $`vec{a}$?
+a)$F_x = F_{1x} + F_{2x} = 35 `cos(35) + 25 `cos(71) = 36.81$ N `` $F_y = F_{1y} + F_{2y} = 35 `sin(35) + 25 `cos (71) = 43.7 $ N `` $F = `sqrt{F_x^2 + F_y^2} = 57.15$ N `` `` b) $`vec{F} = m`vec{a}$, so $`vec{a} = `frac{`vec{F}}{m} = `frac{57.2}{10} = 5.72$ m/s$^{2}$
+3PDB
+A box slides across the floor from left to right with uniform (constant) acceleration. Starting from rest, it reaches a speed of 2.7 m/s in three seconds. `` a) What is the acceleration, $`vec{a}$, of the box? `` b) What is the displacement, $`vec{d}$, of the box after six seconds?
+a)$a = `frac{v_f - v_0}{t_f - t_0} = `frac{2.7-0}{3.0-0} = 0.90$ m/s$^{`circ}$ `` b) Solve for displacement: $`vec{d} = `vec{d}_0 + `vec{v}_0 t + `frac{1}{2}`vec{a}t^2 = 0 + 0(6) + (`frac{1}{2})(0.9)(6^2) = 16.20$ m.
+4PDB
+The acceleration due to gravity on the surface of the moon is $g = -1.67$ m/s$^{`circ}$ (as compared to $g = -9.80$ m/s$^{`circ}$ on the earthâ€™s surface). How much higher will a ball thrown straight up at an initial velocity of $v = +10.0$ m/s rise on the moon as compared to it being thrown up at the same initial velocity on the earth?
+On earth: $t = `frac{-v_0}{g} = `frac{-10.0}{-9.80} = 1.02$ s, `` $y_e = y_0 + v_0t + `frac{1}{2}gt^2 = 0 + (10.0)(1.02) + (`frac{1}{2})(-9.8)(1.02)^2 = 5.10$ m. `` On moon: `` $y_m = y_0 + v_0t + `frac{1}{2} g t^2 = 0 + (10.0)(5.99) + (`frac{1}{2})(-1.67)(5.99)^2 = 29.94$ m. `` Thus, $`Delta y = y_m - y_e = 29.94 - 5.10 = 24.8$ m.
+5PDB
+The average distance between the sun and earth is defined to be the Astronomical Unit (AU): 1 AU = 1.50 $`times$ 10$^{11}$ m. Light (in the vacuum of space) moves at a constant speed of $c = 2.99 `times 10^8$ m/s. How long in minutes does it take light to reach the earth from the sun?
+This is unaccelerated motion, thus `` $x=vt$ = (1.50 $`times$ 10$^{11}$)/(2.99 $`times$ 10$^8$) = 501.7 s $`times$ (1 min / 60 s) = 8.4 min.
+6PDB
+A block of mass $m$ is pulled up at a 30$^{`circ}$ incline at constant velocity with a force $`vec{F}_1$ which is parallel to the incline. Ignore friction. `` `begin{figure}[h] `begin{center} `includegraphics[scale=0.36]{pdb-6.png} `label{freebodydiagram} `end{center} `end{figure}`` What is the relation between the normal force $`vec{N}$ and the weight $`vec{w} = m`vec{g}$ of the block? `` a) $`vec{N} = m`vec{g}$ `` b) $`vec{N} = m`vec{g} - `vec{F}_1 `sin(30)$ `` c) $`vec{N} = m`vec{g}`cos(30)$ `` d) $`vec{N} = m`vec{g} + `vec{F}_1 `tan(30)$
+Parallel force: $`vec{F}_1 - `vec{w}`sin(`theta) = m`vec{a}$     (accelerates up the incline) ``Perpendicular forces: $`vec{N} - `vec{w}`cos(`theta) = 0$      (no acceleration perpendicular to the incline) `` `newline Since $`vec{w} = m`vec{g}$, from the perpendicular forces, we get: ``$`vec{N} - `vec{w}`cos(`theta) = `vec{N} - m`vec{g}`cos(`theta) = 0 `implies$ $`vec{N} = m`vec{g}`cos(30).$ ``
+7PDB
+Calculate the weight of a 50.0 kg astronaut aboard the International Space Station (ISS), which orbits the earth at a distance of about 220 km above the earth's $surface$. The radius of the earth is 6.38 $`times$ 10$^6$ m and its mass is 5.97 $`times$ 10$^{24}$ kg. (Recall that $`vec{w} = `vec{F}_g$)
+$w = F_g = `frac{G M_e m_a}{(R_e + d)^2} = (6.67 `times 10^{-11})(5.97 `times 10^{24})(50.0)/(6.38 `times 10^6 + 2.20 `times 10^5)^2$. `` Notice the sum of the distances is used because gravity acts from the center of the earth and not the surface
+8PDB
+A donut shaped space station can create â€œartificial earth gravityâ€ by rotating. The inside of the outer wall of the rotating space station becomes a floor for the astronauts, and centripetal acceleration supplied by the floor allows them to exercise more naturally than in non-rotating station. If the space station has a radius of 100 m, how fast must it rotate (that is, what is the angular velocity $`omega$) to produce an acceleration of 9.80 m/s$^2$ at the inside of the outer wall)?
+The astronauts experience a centripetal acceleration of $a_c = g$ at the outer wall. So we have $a_c = g$, and using $a_c = `omega r^2$, this becomes $`omega r^2 = g$. Solving for $`omega$ gives $`omega = sqrt{`frac{g}{r}}$ and`` $`omega = `sqrt{`frac{9.8}{100}} = 0.313 = 0.31$ rad/s.
+9PDB
+What is the ideal banking angle $`theta$ for a gentle turn of radius 1.20 km on an interstate highway with a speed limit of 105 km/h (about 65 mi/h)?
+Use the equation: $`tan(`theta) = `frac{v^2}{rg}$ but solve for $`theta$. $`theta = `tan^{-1}(`frac{v^2}{rg})$. And we have $`theta = `tan^{-1} (29.2^2 / (1200)(9.8)) = `tan^{-1}(0.073) = 4.14^{`circ}$.
+10PDB
+Calculate the mass of the sun, $M_{`odot}$, based on data for earth's orbit around the sun using Kepler's 3$^{rd}$ Law. The earth's orbital period P = 1 year = $3.16 `times 10^7$ s and the $size$ of the earth's orbit (semi-major axis $a$) is $1.5 `times 10^{11}$ m.
+Kepler's 3$^{rd}$ Law is $P^2 = `Big(`frac{4`pi^2}{GM_{`odot}} `Big)a^3$. Solving for the mass of the sun gives: `` $M_{`odot} = `Big( `frac{4`pi^2}{G}`Big)`frac{a^3}{P^2}$ and we have $M_{`odot} = `Big( `frac{4`pi^2}{6.67 `times 10^{-11}}`Big)`frac{(1.50 `times 10^{11})^3}{(3.16 `times 10^7)^2} = `frac{1.33 `times 10^{35}}{6.66 `times 10^4} = 2.00 `times 10^{33}$ kg.
+11PDB
+A toy dart gun uses a compressed spring to fire a dart of mass 0.100 kg horizontally. The spring in the toy has a spring constant $k = 250$ N/m and it is pushed in a distance of 6.0 cm from the relaxed position of the spring. `` a) What $speed$ does the dart leave the barrel of the toy gun? (Hint: use conservation of energy). `` b) If the toy is held horizontally above the ground at a height of 1.32 m when it is fired, how $far$ did the dart travel?
+a) `begin{align*} `Delta PE_s = `Delta KE_{dart} `` `frac{1}{2}kx^2 = `frac{1}{2}mv^2 `` v = `sqrt{`frac{k}{m}}x = (`sqrt{`frac{250}{0.10}})(0.006) `` = 3.0 m/s `end{align*} `` b) `begin{align*} y = (`frac{1}{2})gt^2`` t = `sqrt{`frac{2y}{g}} = `sqrt{`frac{(2)(1.32)}{9.8}} = 0.52 s `` x = v_{0x}t = (3.0 m/s)(0.52) = 1.56 m `end{align*}
+12PDB
+A 5.0 kg rifle fires a 0.020 kg bullet from the barrel at 620 m/s. a) How $fast$ does the rifle recoil (move) backwards? b) If the rifle butt hits your shoulder and stops, how much kinetic energy (KE) is transformed?
+a) $m_bv_b + m_rv_0 = m_bv_f + m_rv_f$, ($b$ denotes bullet, and $r$ rifle). `` $v_f = -`frac{m_b}{m_r}v_f = (0.020)(620)/5.0 = -2.5$ m/s. `` b) $KE = `frac{1}{2}mv^2 = 0.5(5.0)(-2.5)^2 = 15.63$ J.
+13PDB
+A centrifuge (a rotating device that separates mixtures) is accelerated from rest to 20,000 rpm (revolutions per minute) in 30 s. a) What is the $angular$ acceleration, $`alpha$. of the centrifuge? b) How many $degrees$, $`theta$, did the centrifuge rotate?
+a) (20,000 rev/min)(2$`pi$ rad/rev)(1 min/ 60 s) = 2.094 $`times 10^3$ rad/s `` $`alpha = `frac{`Delta `omega}{`Delta t} = (2.094 `times 10^3 - 0) / 30 = 69.81$ rad/s`` b) $`theta = `theta_0 + `omega_0t + (`frac{1}{2})`alpha t^2 = 0.5(69.81)(30^2) = 3.14 `times 10^4$ rad `` $3.15 `times 10^4 `times (360^{`circ})/2`pi$ rad = $(1.80 `times 10^6)^{`circ}$.
+14PDB
+A cylinder of mass $m = 1.32$ kg and radius $r = 0.25$ m rolls down a $25^{`circ}$ incline without slipping or friction. The incline is 1.25 m long. How $fast$ will it be moving at the bottom of the incline if it starts from rest at the top? The moment of inertia of a cylinder rotating about its axis is $I = (`frac{1}{2})mr^2$. `` `begin{figure}[h] `begin{center} `includegraphics[scale=0.4]{pdb-14.png}`end{center} `end{figure}
+`begin{align*} KE_i + PE_{gi} + KE_{roti} = KE_f + PE_{gf} + KE_{rotf} `` mgh_i = (`frac{1}{2})mv_f^2 + (`frac{1}{2})I`omega^2 `` mgh_i = (`frac{1}{2})mv_f^2 + (`frac{1}{2})[(`frac{1}{2})mr^2]`omega^2 `` mgh_i = (`frac{1}{2})mv_f^2 +(`frac{1}{2})[(`frac{1}{2})mr^2](`frac{v_f}{r})^2 `end{align*} using $v = r`omega$, so $`omega = v/r$. `` `begin{align*} mgh_i = (`frac{1}{2})v_f^2 + (`frac{1}{2})[(`frac{1}{2})mr^2](`frac{v_f^2}{r^2}) `` gh_i = (`frac{1}{2})v_f^2 + (`frac{1}{4})v_f^2 = (`frac{3}{4})v_f^2 `end{align*} So, $v_f = `sqrt{`frac{4gh_i}{3}} = `sqrt{`frac{4(9.8)(0.53)}{3}} = `sqrt{6.93} = 2.63$ m/s.
+15PDB
+A pole of length, $L = 5.0$ m, and weight, $w = 800$ N, is pivoted by a hinge on the ground and held up by a horizontal wire attached between a wall and the top of the pole. The pole makes a 30$^{`circ}$ angle with the ground and is in equilibrium. Three forces act on the pole: $`vec{T}$, the tension in the wire, $`vec{w}$, the weight of the pole, and $`vec{F}$, the force of the hinge on the base of the pole. The open circle on the pole is its center of gravity (COG), which is located at 2.5 m from either end. Taking the axis of rotation to be at the hinge, use the second condition of equilibrium (net torque must equal zero: $`tau_{net}$ = 0) to calculate the size of the tension force, T. (The line of action for each force is shown as dashed line). `` `begin{figure}[h] `begin{center} `includegraphics[scale=0.35]{pdb-15.png}`end{center} `end{figure}
+$`tau_{net}$ = F(0)sin($`alpha$) â€“ w(L/2)cos(30) + T(L)sin(30) = 0 - (800)(2.5)cos(30) + T(5.0)sin(30) = 0 T = 800(2.5)cos(30)/(5.0)sin(30) = 400cot(30) = 692.8 N
+16PDB
+A hawk is flying directly away from a bird watcher at a speed of 6.7 m/s. The hawk produces a shrill cry whose frequency is 835 Hz. What is the frequency of the cry that the (stationary) watcher hears?
+$f = f_0 (v_{sound} / (v_{source} + v_{sound})) = 835(343 / (343+6.7)) = 819$ Hz.
+17PDB
+A 5.3 m long steel beam, with a coefficient of linear expansion $`alpha = 1.2 `times 10^{-5}$ $^{`circ}$C$^{-1}$, experiences a temperature change from -15.0 $^{`circ}$C in the winter to +55.0 $^{`circ}$C during the summer. How much does the beam expand?
+$`Delta L = L `alpha `Delta T = 5.3(1.2 `times 10^{-5})(55 - (-15)) = 4.45 `times 10^{-3}$ m.
+18PDB
+Two skaters at rest on ice simultaneously push off from one another. One skater of mass 55.0 kg moves to the left with a velocity of -3.5 m/s. Find the â€œrecoilâ€ velocity of the other skater with a mass of 75.0 kg.
+$`Delta `vec{p} = 0$ `` $`vec{p}_0 = `vec{p}_f$ `` $(55.0)(0) + (75.0)(0) = (55.0)(-3.5) + (75.0)`vec{v}_f$ `` $`vec{v}_f = 192.5 / 75.0 = +2.57$ m/s.
+19PDB
+A bullet is fired from a rifle aimed horizontally (parallel to the ground) at the bullseye of a target. The speed at which the bullet leaves the barrel is 825 m/s. The bullet strikes 0.006 m directly below the bullseye. What horizontal distance did the bullet travel from the end of the rifle barrel to the target? Ignore air resistance.
+$t = `sqrt{2y/g} = `sqrt{(2)(0.0067)/(9.8)} = 0.035$ s. `` $x = v_{0x} t = 825 (0.035) = 28.9$ m.
+20PDB
+An engine has an efficiency of 34`% and can produce 6500 J of work. Determine: `` a) the input heat to the engine `` $e = `frac{W}{Q_H} `rightarrow$ `` b) the heat lost from the engine
+a) $Q_H = `frac{W}{e} = `frac{6500}{0.34} = 1.91 `times 10^4$ J. `` b) $Q_C = Q_H - W = 19120 - 6500 = 12600$ J.
+21PDB
+A 4.2 m long cylindrical copper (Cu) rod has one end placed in a fire at 520 $^{`circ}$C. The rod has a radius of $3.2 `times 10 ^{-3}$ m. If the other end of the rod is kept at a temperature of 30 $^{`circ}$C, how much heat is conducted along the rod in 4.5 s? Assume all the heat is conducted and none is lost by radiation. The conductivity of copper is $k_{Cu} = 390$ J/(s m $^{`circ}$C).
+$Q / t = k A `Delta T / d = k (`pi R^2) `Delta T / d = [(390)(3.14)(3.2 `times 10^{-3})^2 (520 - 30) ] / 4.2 = 1.47$ J. `` $Q = 4.5$ s $`times$ 1.47 J/s = 6.59 J.
+22PDB
+A 5.1 kg box is pulled along a horizontal friction-free surface by a rope attached to it at a 28.3$^{`circ}$angle from the horizontal. The force applied to the rope is 55 N and the box moves a distance of 7.8 m. How much work was done on the box?
+$W = F d `cos(`theta) = 55 `cos(28.3)(7.8) = 377.7$ J
+23PDB
+Water at 43 $^{`circ}$C is sprayed on 0.280 kg of molten gold (Au) at its melting point (1063 $^{`circ}$C). The water boils completely away and the gold solidifies at 1063 $^{`circ}$C. How much water is used to solidify the gold? The specific heat of water is c = 4186 J/(kg $^{`circ}$C) and its heat of vaporization is $L_v = 2.26 `times 10^6$ J/kg; the heat of fusion of gold is $L_f = 6.28 `times 10^4$ J/kg.
+$Q_{lost}$ (Au) = $Q_{gained}$ (H$_2$0) `` $m_{Au} L_f$ (Au) = $m_{H_20}Cl$ (H$_2$0)$ `Delta T$ `` $`rightarrow m_{H_20} = m_{Au} L_f$ (Au) / $Cl$ (H$_2$0) $`Delta T$ `` $m_{H_20} = [(0.280)(6.28 `times 10^4)] / [(4186)(100-43)] = 6.27 `times 10^{-2}$ kg.
+24PDB
+A 3.5 kg cylindrical aluminum rod is suspended from a wire, while submerged in a tank full of ethyl alcohol ($`rho_{alcohol} = 806$ kg/m$^3$). The length of the rod is 3.5 cm and it has a cross-sectional area of $3.3 `times 10^{-3}$ m$^2$ . What is the $tension$ in the wire supporting the rod?
+$`vec{T} + `vec{F}_b = `vec{w}$ `` $`rightarrow `vec{T} = `vec{w} - `vec{F}_b = `vec{w} - `rho_{alcohol}`vec{g}V_{rod}$ `` $`vec{T} = `vec{w} - `rho_{alcohol}`vec{g} V_{rod} = mg - `rho_{alcohol} `vec{g}(A)(l) = (3.5)(9.8) - (806)(9.8)(3.3 `times 10^{-3})(0.035)$ `` $`vec{T} = 34.3 - 0.912 = + 33.48$ N.
+25PDB
+A 5.0 kg uniform horizontal beam 3.0 m in length is butted to a vertical wall and is supported by a wire that runs from the free end of the beam back to the wall at an angle of 36$^{`circ}$. What is the $tension$ $T$ in the wire if the beam is in equilibrium? ``  `begin{figure}[h] `begin{center} `includegraphics[scale=0.32] {pdb-25.png} `end{center} `end{figure}
+$`tau_{net} = -`vec{w}(1.5) + `vec{T}(3.0)`sin(36) = 0$ `` $`vec{T} = `vec{w}(1.5) / (3.0 `sin (36)) = 41.68$ N.
+26PDB
+The take-up reel of a cassette tape has a radius of 0.015 m. Find the $length$ of tape that winds up around the reel in 5.3 s when the reel rotates at a uniform angular speed of 1.15 rad/s.
+$`omega_0 = 1.15$ rad/s `` Use $`theta = `theta_0 + `omega_0 t + (1/2) `alpha t^2 = `omega_0 t$ as there is no acceleration ($`alpha = 0$) `` $`theta = `omega_0 t = (5.3 )$1.15 rad/s = 6.095 rad `` $s = r `theta = (0.015)$ m (6.095) rad = 0.0914 m.
+27PDB
+Mars has a mass of $6.46 `times 10^{23}$ kg and a radius of 3390 km. What is the acceleration due to gravity at its surface, $little$ $g$?
+$g = G M / r^2 = (6.67 `times 10^{-11}) (6.46 `times 10^{23}) / (3.390 `times 10^6)^2 = (4.31 `times 10^{13}) / (1.15 `times 10^{13}) = 3.75$ m/s$^2$.
+28PDB
+A person drives a 0.050 kg golf ball from rest to a velocity of +32 m/s. The duration of the impact between the golf club and ball is $5.1 `times 10^{-3}$ s. What is the change in momentum of the ball?
+$`Delta `vec{p} = `vec{F} `Delta t = m `vec{a}`Delta t = m(`Delta `vec{v} / `Delta t) `Delta t = m `Delta `vec{v} = (0.050)(32-0) = 1.60$ kg m/s.
+29PDB
+Astronauts land on Mercury, where g = 2.21 m/s$^2$ . They wish to build a simple pendulum clock with a period of 0.15 minutes. How long should the pendulum be?
+$P = 2 `pi `sqrt{l/g} `rightarrow l = (P^2 g)/ (4`pi^2) = (0.15 `times 60)^2 (2.21) / 4(3.14)^2 = 4.53$ m.
+30PDB
+A 550 kg piano is being lifted at a steady speed from the street to an apartment 13.0 m above the ground. The crane lifting the piano produces a steady power of 350 W. How $long$ will it take to lift the piano up to the apartment?
+$P = W/t$, so $W = Pt$ $`rightarrow W = (350)t$ `` $`Delta E = mg `Delta h = (550) (9.8) (13.0) = 7.01 `times 10^4$ `` From work energy theorem: $W = `Delta E$ so $(350) t = 2.01 `times 10^4$ `` $`rightarrow t = (7.01 `times 10^4) / 350 = 200.2$ s.
+31PDB
+A vector $`vec{A}$ of magnitude 3.45 km points at an angle of 48.5$^{`circ}$ from the x-axis. A second vector $`vec{B}$ of magnitude 2.44 km points at an angle of â€“19.3$^{`circ}$ from the x-axis. Find the vector sum of $`vec{A}+`vec{B}$ using vector components, giving the magnitude and direction of the sum.
+$A_x = 3.45 `cos(48.5) = 2.29$ `` $A_y = 3.45 `sin(48.5) = 2.58$ `` $B_x = 2.44 `cos(-19.3) = 2.30$ `` $B_y = 2.44 `sin(-19.3) = =0.81$ `` $`vec{R} = `vec{A} + `vec{B} = `sqrt{[(A_x + B_x)^2 + (A_y + B_y)^2]} = `sqrt{(4.59)^2 + (1.77)^2} = 4.92$ km. `` $`theta = `tan^{-1}[(A_y + B_y) / (A_x + B_x)] = `tan^{-1}[1.77/4.59] = 21.09^{`circ}$.
+32PDB
+A car is traveling around an unbanked circular turn at a speed of 42.2 m/s. If the coefficient of static friction $`mu_s = 0.46$ between the tires and the road surface, what is the $radius$ of the turn?
+Force of friction = Centripetal force `` $f_s = F_c$ `` $f_s = `mu_s m g = m v^2 / r = F_c$ `` $r = v^2 / `mu g = (42.2)^2 / (0.46) (9.8) = 395.03$ m.
+33PDB
+A 5800 kg helicopter is flying horizontally through the air at a constant speed above the ground. The lift force, $L$, generated by the rotating blades is at an angle of 23.0$^{`circ}$ from the vertical. Determine: `` a) the $magnitude$ of the lift force $L$ `` b) the $magnitude$ of the force of air resistance $R$
+Vertical forces balance: $L_v = w$ `` a) $`rightarrow L `cos(23.0) = (5800)(9.8) = 56840.0 `rightarrow L = 56840.0/`cos(23.0) = 61749$ N. `` Horizontal forces balance $L_h = R$ `` b) $`rightarrow L`sin(23.0) = R `rightarrow R = 61749 `times `sin(23.0) = 24127$ N.

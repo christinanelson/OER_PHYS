@@ -1,0 +1,34 @@
+******************************************************************************
+
+Author : Christina Nelson
+
+Date : August 21, 2017
+
+******************************************************************************
+
+
+Run these commands in UHUNIX, (note that uh$ denotes the uhunix shell prompt) or 
+your local terminal
+
+$ chmod +x physdb
+$ chmod +x create-pdf
+
+In the src directory run bash script:
+$ ./physdb
+
+
+Follow menu options and after finished, verify that a file named mytest.txt is created.
+$ ls
+
+Then run the following:
+
+$ ./create-pdf
+
+$ cd ../latex
+
+$ pdflatex myPDF.tex
+
+if you have the application evince, use it to view your PDF
+$ evince myPDF.pdf
+
+scp or cp to your local machine and print!
