@@ -32,3 +32,7 @@ if you have the application evince, use it to view your PDF
 $ evince myPDF.pdf
 
 scp or cp to your local machine and print!
+
+
+Here is a screen shot of what the terminal prompt will look like.
+
